@@ -12,7 +12,6 @@ public class Program {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		double a = 1;
 		
 		System.out.print("ID: ");
 		int id = sc.nextInt();
